@@ -1,0 +1,14 @@
+/home/lunn/Work/Projects/C# Bootcamp/MyQuizApp/MyQuizApp/bin/Debug/net8.0/MyQuizApp
+/home/lunn/Work/Projects/C# Bootcamp/MyQuizApp/MyQuizApp/bin/Debug/net8.0/MyQuizApp.deps.json
+/home/lunn/Work/Projects/C# Bootcamp/MyQuizApp/MyQuizApp/bin/Debug/net8.0/MyQuizApp.runtimeconfig.json
+/home/lunn/Work/Projects/C# Bootcamp/MyQuizApp/MyQuizApp/bin/Debug/net8.0/MyQuizApp.dll
+/home/lunn/Work/Projects/C# Bootcamp/MyQuizApp/MyQuizApp/bin/Debug/net8.0/MyQuizApp.pdb
+/home/lunn/Work/Projects/C# Bootcamp/MyQuizApp/MyQuizApp/obj/Debug/net8.0/MyQuizApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/lunn/Work/Projects/C# Bootcamp/MyQuizApp/MyQuizApp/obj/Debug/net8.0/MyQuizApp.AssemblyInfoInputs.cache
+/home/lunn/Work/Projects/C# Bootcamp/MyQuizApp/MyQuizApp/obj/Debug/net8.0/MyQuizApp.AssemblyInfo.cs
+/home/lunn/Work/Projects/C# Bootcamp/MyQuizApp/MyQuizApp/obj/Debug/net8.0/MyQuizApp.csproj.CoreCompileInputs.cache
+/home/lunn/Work/Projects/C# Bootcamp/MyQuizApp/MyQuizApp/obj/Debug/net8.0/MyQuizApp.dll
+/home/lunn/Work/Projects/C# Bootcamp/MyQuizApp/MyQuizApp/obj/Debug/net8.0/refint/MyQuizApp.dll
+/home/lunn/Work/Projects/C# Bootcamp/MyQuizApp/MyQuizApp/obj/Debug/net8.0/MyQuizApp.pdb
+/home/lunn/Work/Projects/C# Bootcamp/MyQuizApp/MyQuizApp/obj/Debug/net8.0/MyQuizApp.genruntimeconfig.cache
+/home/lunn/Work/Projects/C# Bootcamp/MyQuizApp/MyQuizApp/obj/Debug/net8.0/ref/MyQuizApp.dll
